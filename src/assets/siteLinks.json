@@ -8,11 +8,7 @@
     "icon": "Compass",
     "name": "导航页",
     "link": "https://nav.o3oyoo.com/",
-    "/**/": [{
-      "icon": "Book",
-      "name": "网址集",
-      "link": "https://web.imsyy.top/"
-    },
+    "/**/": [
       {
         "icon": "Fire",
         "name": "今日热榜",
@@ -33,6 +29,11 @@
         "name": "音乐",
         "link": "https://music.imsyy.top/"
       }]
+  },
+  {
+    "icon": "Book",
+    "name": "频道",
+    "link": "https://tg.o3oyoo.com/"
   }
 ]
 
