@@ -34,6 +34,16 @@
     "icon": "Book",
     "name": "频道",
     "link": "https://tg.o3oyoo.com/"
+  },
+  {
+    "icon": "AccessibleIcon",
+    "name": "吃瓜一线朋友圈",
+    "link": "https://gua.o3oyoo.com/"
+  },
+  {
+    "icon": "Discourse",
+    "name": "嘿鸭社区",
+    "link": "https://www.o3oyoo.com/"
   }
 ]
 
